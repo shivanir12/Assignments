@@ -7,5 +7,6 @@ public class Main {
         triangle.printOneAsterisk();
         triangle.printVerticalLine();
         triangle.printHorizontalLine();
+        triangle.printRightTriangleLine();
     }
 }
