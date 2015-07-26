@@ -37,7 +37,7 @@ public class Triangle {
         System.out.println("Enter the value if n");
         Scanner input = new Scanner(System.in);
         n = input.nextInt();
-        System.out.println("Print Right triangle line");
+        System.out.println("Print Right triangle");
         System.out.println("------------------------------------------------------------------");
         for (int i = 1; i <= n; i++) {
             for(int j=1; j<= i; j++) {

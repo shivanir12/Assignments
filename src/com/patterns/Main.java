@@ -8,5 +8,11 @@ public class Main {
         triangle.printVerticalLine();
         triangle.printHorizontalLine();
         triangle.printRightTriangleLine();
+
+        Diamond diamond = new Diamond();
+        diamond.isocelesTriangle();
+        diamond.centeredDiamond();
+        diamond.diamondWithNameInCenter();
+
     }
 }
