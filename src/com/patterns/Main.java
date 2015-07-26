@@ -14,5 +14,10 @@ public class Main {
         diamond.centeredDiamond();
         diamond.diamondWithNameInCenter();
 
+        PrimeFactors primeFactors = new PrimeFactors();
+        primeFactors.prime();
+
+        FizzBuzz fizz = new FizzBuzz();
+        fizz.fizzBuzz();
     }
 }
